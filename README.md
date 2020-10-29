@@ -4,7 +4,7 @@
 
 
 
-[![alt text](./img/natours-image.png "Imagem do projeto")]
+(./img/natours-image.png "Imagem do projeto")
 
 
 
