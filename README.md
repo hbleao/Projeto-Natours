@@ -22,13 +22,13 @@ yarn compile:sass
 
 ### Estrutura:
 
-  ├── node_modules  
-  ├── css
-    ├── fonts
-  ├── img
-  ├── sass
-      ├── abstract
-      ├── base
-      ├── components
-      ├── layout
-      ├── pages
+    ├── node_modules  
+    ├── css
+      ├── fonts
+    ├── img
+    ├── sass
+        ├── abstract
+        ├── base
+        ├── components
+        ├── layout
+        ├── pages
