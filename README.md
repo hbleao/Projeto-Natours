@@ -2,7 +2,7 @@
 
 O projeto Natours foi desenvolvido no curso de CSS avançado, desenvolvido somente com html e css, mostrando que somente com essas duas tecnologias podemos fazer muita coisa sem a necessidade de javascript.
 
-### Comandos
+> ### Comandos
 
 #### para baixar as dependências do projeto:
 ```
