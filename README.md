@@ -46,4 +46,4 @@ yarn compile:sass
         ├── components
         ├── layout
         ├── pages
-     ├── index
+    ├── index
