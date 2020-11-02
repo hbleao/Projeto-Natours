@@ -1,6 +1,6 @@
 ## Projeto-Natours
 
-#### O projeto Natours foi desenvolvido no curso de CSS avançado, desenvolvido somente com html e css, mostrando que somente com essas duas tecnologias podemos fazer muita coisa sem a necessidade de javascript. O projeto também contempla arquitetura de css e metodologias como o BEM (Block Element Modifier).
+O projeto Natours foi desenvolvido somente com html e css, mostrando que somente com essas duas tecnologias podemos fazer muita coisa sem a necessidade de javascript. O projeto também contempla arquitetura e metodologias como o BEM (Block Element Modifier) para a padronizão do css.
 
 
 
@@ -15,6 +15,10 @@
 yarn
 ```
 
+#### para startar o projeto:
+```
+yarn dev
+```
 #### para compilar o sass:
 ```
 yarn compile:sass
@@ -42,3 +46,4 @@ yarn compile:sass
         ├── components
         ├── layout
         ├── pages
+    ├── index
