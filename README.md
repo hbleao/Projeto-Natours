@@ -15,6 +15,10 @@ O projeto Natours foi desenvolvido somente com html e css, mostrando que somente
 yarn
 ```
 
+#### para start o projeto:
+```
+yarn dev
+```
 #### para compilar o sass:
 ```
 yarn compile:sass
@@ -42,3 +46,4 @@ yarn compile:sass
         ├── components
         ├── layout
         ├── pages
+     ├── index
