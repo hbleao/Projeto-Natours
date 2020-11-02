@@ -15,7 +15,7 @@ O projeto Natours foi desenvolvido somente com html e css, mostrando que somente
 yarn
 ```
 
-#### para start o projeto:
+#### para startar o projeto:
 ```
 yarn dev
 ```
