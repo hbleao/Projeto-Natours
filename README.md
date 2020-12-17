@@ -1,7 +1,7 @@
 ## Projeto-Natours
 
 O projeto Natours foi desenvolvido somente com html e css, mostrando que somente com essas duas tecnologias podemos fazer muita coisa sem a necessidade de javascript. O projeto também contempla arquitetura e metodologias como o BEM (Block Element Modifier) para a padronizão do css.
-
+publica em:  https://hbleao.github.io/Projeto-Natours/
 
 
 ![alt text](./img/natours-image.png "Imagem do projeto")
